@@ -24,9 +24,6 @@ const {bookName,image,authurName,price}=bookdetails;
           </div>
         </div>
       </div>
-     
-
-
     );
 };
 
