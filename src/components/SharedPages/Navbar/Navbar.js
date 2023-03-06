@@ -72,14 +72,19 @@ const Navbar = () => {
                         {
                             user?.email?
                             <>
+                            <li className=' text-lg font-bold hover:text-green-600'>
+                              <Link to='/dashboard'>
+                            Dashboard
+                            </Link> 
+                              </li>
                               <button className='btn btn-outline hover:bg-pink-600' onClick={handleLogOut}>LogOut</button>
+                              
                             </>
                             :
                             <li className='btn btn-outline ' >
                             <Link to='/login'>
                             Login
-                            </Link>
-                           
+                            </Link> 
                         </li>
                         }
                         
