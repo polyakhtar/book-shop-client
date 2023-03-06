@@ -1,5 +1,4 @@
 import React from 'react';
-// import BookingModal from '../BookingModal/BookingModal';
 
 const BookDetails = ({bookdetails,setBookings}) => {
 const {bookName,image,authurName,price}=bookdetails;
