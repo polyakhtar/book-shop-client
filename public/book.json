@@ -1,0 +1,28 @@
+[
+    {
+        
+        "type":"Adventure stories",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkr3Vg_bdc5vP8yFxwYminGAoZ1tFrusXAnw&usqp=CAU"
+    },
+    {
+        
+        "type":"Classics",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQG9vAzSZWt_nyWWyPZgZjW0O7q103yUeaw&usqp=CAU"
+    },
+    {
+        "type":"Crime",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8LHk6k2KGNxW6EgxNdA_kdBsAT6kOFIx9UA&usqp=CAU"
+    },
+    {
+        "type":"Fantasy",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ZO13JAPsbGRSjAL8S5nhKPrd3FXi3onPdQ&usqp=CAU"
+    },
+    {
+        "type":"Historical fiction",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_FpiY2UFqD8dqHNH67ry4vvbZ9UnDbprdnQ&usqp=CAU"
+    },
+    {
+        "type":"Horror",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrj1D3meXpMNVvWd-_-ISUAnw5P18z8nV7Sw&usqp=CAU"
+    }
+]

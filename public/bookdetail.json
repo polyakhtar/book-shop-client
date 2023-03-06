@@ -1,0 +1,146 @@
+[
+    {
+        "categoryId":"6402500ac9e7a0de36953c9c",
+        "categoryName":"Adventure stories",
+        "bookName":"DRAGON THRONE",
+        "image":"https://i.ibb.co/3zm33JV/download.jpg",
+        "authurName":"Amma Lee",
+        "price":"53"  
+    },
+    {
+        "categoryId":"6402500ac9e7a0de36953c9c",
+        "categoryName":"Adventure stories",
+        "bookName":"THE SECRET LAKE",
+        "image":"https://i.ibb.co/HKMdVQB/images-1.jpg",
+        "authurName":"Karen Inglis",
+        "price":"2"  
+    },
+    {
+        "categoryId":"6402500ac9e7a0de36953c9c",
+        "categoryName":"Adventure stories",
+        "bookName":"Enchanted Forest",
+        "image":"https://i.ibb.co/3v9kXpr/images-3.jpg",
+        "authurName":"Bella Francis",
+        "price":"14"  
+    },
+    {
+        "categoryId":"6402500ac9e7a0de36953c9d",
+        "categoryName":"Classics",
+        "bookName":"The story of FERDINAND",
+        "image":"https://i.ibb.co/N1D06NG/download.jpg",
+        "authurName":"Robert Lawson",
+        "price":"5"  
+    },
+    {
+        "categoryId":"6402500ac9e7a0de36953c9d",
+        "categoryName":"Classics",
+        "bookName":"THE GREAT CATSBY",
+        "image":"https://i.ibb.co/JK9SPJc/download-1.jpg",
+        "authurName":"F Scott Fitzgerald",
+        "price":"14"  
+    },
+    {
+        "categoryId":"6402500ac9e7a0de36953c9d",
+        "categoryName":"Classics",
+        "bookName":"THE LITTLE MERMAID",
+        "image":"https://i.ibb.co/PrfLn4b/images-1.jpg",
+        "authurName":"Hans Christian Anderson",
+        "price":"92"  
+    },
+    {
+        "categoryId":"6402500ac9e7a0de36953c9e",
+        "categoryName":"Crime",
+        "bookName":"MIDNIGHT MURDER OF ESTELLA",
+        "image":"https://i.ibb.co/mG83Q1P/images.png",
+        "authurName":"Slogan Here",
+        "price":"26"  
+    },
+    {
+        "categoryId":"6402500ac9e7a0de36953c9e",
+        "categoryName":"Crime",
+        "bookName":"THE GOOD GUY",
+        "image":"https://i.ibb.co/Jrz47dc/images-1.jpg",
+        "authurName":"Dean Koontz",
+        "price":"10"  
+    },
+    {
+        "categoryId":"6402500ac9e7a0de36953c9e",
+        "categoryName":"Crime",
+        "bookName":"FORTRESS BLOOD",
+        "image":"https://i.ibb.co/CmdKtNz/images-2.jpg",
+        "authurName":"L.D Goffigan",
+        "price":"13"  
+    },
+    {
+        "categoryId":"6402500ac9e7a0de36953c9f",
+        "categoryName":"Fantasy",
+        "bookName":"THE SILICOMANEGERS APPRENITICE",
+        "image":"https://i.ibb.co/q5zQ6Mt/download.jpg",
+        "authurName":"Hamil C Davies",
+        "price":"19"  
+    },
+    {
+        "categoryId":"6402500ac9e7a0de36953c9f",
+        "categoryName":"Fantasy",
+        "bookName":"BEWARE THE NIGHT",
+        "image":"https://i.ibb.co/2gb13XJ/download-1.jpg",
+        "authurName":"Jessica Fleck",
+        "price":"17"  
+    },
+    {
+        "categoryId":"6402500ac9e7a0de36953c9f",
+        "categoryName":"Fantasy",
+        "bookName":"THE FALLEN GATES",
+        "image":"https://i.ibb.co/WKg9DtY/download-2.jpg",
+        "authurName":"G.M Gabriels",
+        "price":"8"  
+    },
+    {
+        "categoryId":"6402500ac9e7a0de36953ca0",
+        "categoryName":"Historical Fiction",
+        "bookName":"THE HOUSE OF HARDIE",
+        "image":"https://i.ibb.co/WKg9DtY/download-2.jpg",
+        "authurName":"Anne Melville",
+        "price":"20"  
+    },
+    {
+        "categoryId":"6402500ac9e7a0de36953ca0",
+        "categoryName":"Historical Fiction",
+        "bookName":"ORPHAN MONSTER SPY",
+        "image":"https://i.ibb.co/bKvpRFC/images-1.jpg",
+        "authurName":"Matt Killen",
+        "price":"12"  
+    },
+    {
+        "categoryId":"6402500ac9e7a0de36953ca0",
+        "categoryName":"Historical Fiction",
+        "bookName":"THE POINT OF LIGHT",
+        "image":"https://i.ibb.co/bKvpRFC/images-1.jpg",
+        "authurName":"John Elsworth",
+        "price":"13"  
+    },
+    {
+        "categoryId":"6402500ac9e7a0de36953ca1",
+        "categoryName":"Horror",
+        "bookName":"THE NIGHT",
+        "image":"https://i.ibb.co/XC7CFxF/download.jpg",
+        "authurName":"Mara Franzis",
+        "price":"10"  
+    },
+    {
+        "categoryId":"6402500ac9e7a0de36953ca1",
+        "categoryName":"Horror",
+        "bookName":"COLD DRESSES",
+        "image":"https://i.ibb.co/y0Rzkwq/download-1.jpg",
+        "authurName":"David Pelletier",
+        "price":"6"  
+    },
+    {
+        "categoryId":"6402500ac9e7a0de36953ca1",
+        "categoryName":"Horror",
+        "bookName":"OLD BAY MANOR",
+        "image":"https://i.ibb.co/5G6qBK3/images-1.jpg",
+        "authurName":"Richard Connors",
+        "price":"13"  
+    }
+]
