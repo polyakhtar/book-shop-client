@@ -13,7 +13,7 @@ const Footer = () => {
   </div> 
   <div>
     <span className="footer-title">Company</span> 
-    <Link className="link link-hover">About</Link>
+    <Link className="link link-hover">About Us</Link>
     <Link className="link link-hover">Contact</Link>
     <Link className="link link-hover">Jobs</Link>
     <Link className="link link-hover">Press kit</Link>
