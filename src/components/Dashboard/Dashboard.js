@@ -1,9 +1,12 @@
 import React from 'react';
+import DashboardLeftSide from './DashboardLeftSide/DashboardLeftSide';
+import DashboardRightSide from './DashboardRightSide/DashboardRightSide';
 
 const Dashboard = () => {
     return (
-        <div>
-            <h1>Dashboard</h1>
+        <div className='grid grid-cols-1 lg:grid-cols-4 gap-y-4 m-2'>
+            <DashboardLeftSide></DashboardLeftSide>
+            <DashboardRightSide></DashboardRightSide>
         </div>
     );
 };

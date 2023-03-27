@@ -31,7 +31,9 @@ const handleSignIn=(event)=>{
             photoURL:photourl
         }
         updateUser(userInfo)
-        .then(()=>{})
+        .then(()=>{
+            fetch('http://localhost:5000/users',)
+        })
         .catch(error=>console.log(error))
     })
     .catch(error=>console.error(error))
